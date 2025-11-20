@@ -6,7 +6,7 @@ One-page responsive portfolio demonstrating Flexbox, CSS Grid, media queries, re
 ## How to run locally
 1. Clone repo:
 
-git clone https://github.com/<your-username>/portfolio-lab3.git
+git clone https://github.com/<akshit-88>/portfolio-lab3.git
 2. Open `index.html` in your browser or run Live Server extension.
 Breakpoints tested
 
@@ -21,4 +21,8 @@ Hero uses Flexbox to arrange text/image
 - mobile-first media queries and relative units (rem, %, vw)
 
 - Hover effects and transitions on nav, buttons, cards
-- Keyframe animation on role text (color-change) - Contact form with Name, Email, Message fields GitHub Pages Live demo: https://<your-username>.github.io/portfolio-lab3/ ## Author <Your Name> — <Your Student ID if needed>
+- Keyframe animation on role text (color-change) - Contact form with Name, Email, Message fields GitHub Pages Live demo: https://<akshit-88>.github.io/portfolio-lab3/
+ ## Author - AKSHIT 
+ ## Rolll no - 2501730020
+ ## course - btech cse ai and ml 
+ ## section -E 
