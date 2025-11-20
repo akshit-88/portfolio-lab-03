@@ -4,9 +4,7 @@ Description
 
 One-page responsive portfolio demonstrating Flexbox, CSS Grid, media queries, relative units, hover effects, transitions, and animations.
 ## How to run locally
-1. Clone repo:
-
-git clone https://github.com/<akshit-88>/portfolio-lab3.git
+1. Clone repo: git clone https://github.com/<akshit-88>/portfolio-lab3.git
 2. Open `index.html` in your browser or run Live Server extension.
 Breakpoints tested
 
@@ -26,3 +24,4 @@ Hero uses Flexbox to arrange text/image
  ## Rolll no - 2501730020
  ## course - btech cse ai and ml 
  ## section -E 
+
