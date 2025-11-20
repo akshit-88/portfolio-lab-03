@@ -1,28 +1,79 @@
-# Lab 3 — Responsive Portfolio
-
-Description
-
-One-page responsive portfolio demonstrating Flexbox, CSS Grid, media queries, relative units, hover effects, transitions, and animations.
-## How to run locally
-1. Clone repo: git clone https://github.com/akshit-88/portfolio-lab3.git
-2. Open `index.html` in your browser or run Live Server extension.
-Breakpoints tested
-
-- Mobile: 375px
-- Tablet: 768px
-- Desktop: 1024px, 1440px
-Features implemented
-- Header uses Flexbox to align logo/navigation
-Hero uses Flexbox to arrange text/image
-- Skills & Projects use CSS Grid for responsive cards
-
-- mobile-first media queries and relative units (rem, %, vw)
-
-- Hover effects and transitions on nav, buttons, cards
-- Keyframe animation on role text (color-change) - Contact form with Name, Email, Message fields GitHub Pages Live demo: https://akshit-88.github.io/portfolio-lab3/
  ## Author - AKSHIT 
  ## Rolll no - 2501730020
  ## course - btech cse ai and ml 
  ## section -E 
 
+🌟 One-Page Responsive Portfolio Website
 
+This repository contains a fully responsive and interactive Portfolio Website created as part of the Web Development Lab Assignment.
+The project demonstrates practical implementation of Flexbox, CSS Grid, media queries, relative units, and CSS animations to design a modern one-page layout.
+
+📖 Project Description
+
+The portfolio website is designed to showcase personal information, skills, and projects in a clean and structured manner.
+The layout adapts seamlessly across desktop, tablet, and mobile screens, ensuring a smooth user experience on all devices.
+
+The project focuses on:
+✔ Modern CSS layout techniques
+✔ Responsive design principles
+✔ Interactive UI using animations
+✔ Well-structured and readable code
+
+🧱 Website Sections
+
+The website contains the following major sections:
+
+Header – Logo and navigation using Flexbox
+
+Hero Section – Introduction text + profile image
+
+About Section – Brief bio
+
+Skills Section – Displayed using CSS Grid
+
+Projects Section – Grid-based project cards
+
+Contact Section – Simple contact form (Name, Email, Message)
+
+Footer – Copyright + social links
+
+Each section is organized to maintain a smooth vertical flow and clear visual hierarchy.
+
+🎯 Assignment Objectives Covered
+✔ Flexbox
+
+Used in the header, hero, and layout alignment.
+
+✔ CSS Grid
+
+Used in the Skills and Projects sections for structured card layouts.
+
+✔ Responsive Design
+
+Media queries applied for:
+
+Mobile (≤ 600px)
+
+Tablet (600–900px)
+
+Desktop (≥ 900px)
+
+✔ Relative Units
+
+Used throughout (rem, em, %, vw, vh) for scalable spacing and typography.
+
+✔ Animations
+
+Keyframe animation on hero text
+
+Hover animations for buttons and links
+
+Smooth transitions for interactive elements
+
+✔ Design Consistency
+
+Clean typography with Google Fonts
+
+Balanced spacing and margins
+
+Defined color theme
